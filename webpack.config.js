@@ -1,32 +1,33 @@
+// webpack.config.js
 import path from 'path';
 
 export default {
-    entry: './src/index.js', // Adjust the path if your entry file is located somewhere else
+    entry: './src/index.js', // Your entry file
     output: {
         filename: 'bundle.js',
-        path: path.resolve('build'), // Output directory for the build
+        path: path.resolve('public'), // Ensure the output directory is 'public'
     },
     module: {
         rules: [
             {
-                test: /\.jsx?$/,
+                test: /\.jsx?$/, // Match .js and .jsx files
                 exclude: /node_modules/,
                 use: {
                     loader: 'babel-loader',
                     options: {
-                        presets: ['@babel/preset-env', '@babel/preset-react'], // Ensure you have Babel presets installed
+                        presets: ['@babel/preset-env', '@babel/preset-react'],
                     },
                 },
             },
             {
-                test: /\.css$/,
+                test: /\.css$/, // Match .css files
                 use: ['style-loader', 'css-loader'], // Load CSS files
             },
         ],
     },
     resolve: {
-        extensions: ['.js', '.jsx'],
+        extensions: ['.js', '.jsx'], // Allow imports without extensions
     },
     devtool: 'source-map',
-    mode: 'production', // Set to 'development' for dev mode
+    mode: 'production',
 };
