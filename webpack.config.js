@@ -1,7 +1,7 @@
 import path from 'path';
 
 export default {
-    entry: './src/server.js', // Adjust the path if your entry file is located somewhere else
+    entry: './src/index.js', // Adjust the path if your entry file is located somewhere else
     output: {
         filename: 'bundle.js',
         path: path.resolve('build'), // Output directory for the build
