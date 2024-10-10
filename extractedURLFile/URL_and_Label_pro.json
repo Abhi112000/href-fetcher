@@ -1,0 +1,1438 @@
+{
+  "pageURL": "https://safetyutv.sveautveckling.se/",
+  "URLcounts": "Total number of hrefs: 358",
+  "anchorData": [
+    {
+      "href": "https://safetyutv.sveautveckling.se/",
+      "label": ""
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/",
+      "label": "Hem"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter/",
+      "label": "Produkter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/",
+      "label": "Personligt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/selar/",
+      "label": "Selar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/fallskyddskit/",
+      "label": "Fallskyddskit"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/hjalmar/",
+      "label": "Hjälmar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/tillbehor/",
+      "label": "Tillbehör"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/",
+      "label": "Kollektivt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/racken/",
+      "label": "Räcken"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/stolpar/",
+      "label": "Stolpar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/fasten/",
+      "label": "Fästen"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/kopplingar-hallare/",
+      "label": "Kopplingar/Hållare"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/tillbehor/",
+      "label": "Tillbehör"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/",
+      "label": "Access"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/flex-hangbrygga/",
+      "label": "Flex hängbrygga"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/hisschaktsdorr/",
+      "label": "Hisschaktsdörr"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/trappor/",
+      "label": "Trappor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/gangbroar/",
+      "label": "Gångbroar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/avsparrningsracken/",
+      "label": "Avspärrningsräcken"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/avsparrningsstaket/",
+      "label": "Avspärrningsstaket"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/stangsel/",
+      "label": "Stängsel"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/",
+      "label": "Safety Net systems"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/skyddsskarm/",
+      "label": "Skyddsskärm"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/skyddsnat/",
+      "label": "Skyddsnät"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/",
+      "label": "Säker logistik"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/trailersafe/",
+      "label": "Trailersafe"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/lagringshackar/",
+      "label": "Lagringshäckar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/3d-demo/",
+      "label": "3D-DEMO"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/avsparrning/",
+      "label": "Avspärrning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/avsparrning/",
+      "label": "Avspärrning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/avsparrningssystem/",
+      "label": "Avspärrningssystem"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/sakra-tilltradesleder/",
+      "label": "Säkra tillträdesleder"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/balkar-och-pelare/",
+      "label": "Balkar och pelare"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/formonterad-infastning-pa-stalbalk/",
+      "label": "Förmonterad infästning på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gangade-svetsplattor/",
+      "label": "Gängade svetsplattor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gangstang-pa-stalbalk/",
+      "label": "Gängstång på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gangad-infastning-i-stalkonstruktioner/",
+      "label": "Gängad infästning i stålkonstruktioner"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/langa-spannvidder/",
+      "label": "Långa spännvidder"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/tving-pa-stalbalk/",
+      "label": "Tving på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/svetshylsa-pa-stalbalk-2/",
+      "label": "Svetshylsa på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/trabalkar-och-trapelare/",
+      "label": "Träbalkar och träpelare"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/trareglar/",
+      "label": "Träreglar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/balkonger/",
+      "label": "Balkonger"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-monterat-i-infastning-for-balkongracke/",
+      "label": "Fallskydd monterat i infästning för balkongräcke"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/formontering-pa-prefabricerade-element/",
+      "label": "Förmontering på prefabricerade element"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/tving-pa-balkongkanter/",
+      "label": "Tving på balkongkanter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/betonggjutning/",
+      "label": "Betonggjutning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-pa-pelare-for-fri-arbetsyta/",
+      "label": "Infästning på pelare för fri arbetsyta"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/platsgjuten-stomme/",
+      "label": "Platsgjuten stomme"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/pagjutning-pa-hdf-bjalklag/",
+      "label": "Pågjutning på hdf bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-for-broar/",
+      "label": "Broar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/byggstallningar/",
+      "label": "Byggställningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/bygghissar-och-trapptorn/",
+      "label": "Fallskydd bygghissar och trapptorn"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-byggstallningar/",
+      "label": "Fallskydd byggställningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/hallbyggnader/",
+      "label": "Hallbyggnader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hallsystem-med-rakt-montage/",
+      "label": "Hallsystem med rakt montage"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hallsystem-med-justerbart-faste/",
+      "label": "Hallsystem med justerbart fäste"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastningar-pa-hallbyggnader/",
+      "label": "Infästningar på hallbyggnader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/infastningar/",
+      "label": "Infästningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/betongskruv/",
+      "label": "Betongskruv"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/slagankare-och-dubbelgangad-m16/",
+      "label": "Slagankare och dubbelgängad m16"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/traskruv-wfd/",
+      "label": "Träskruv wfd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/nedfallande-foremal/",
+      "label": "Nedfallande föremål"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/personuppfangande-fallskyddsnat/",
+      "label": "Personuppfångande fallskyddsnät"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsskarm-pa-bjalklag/",
+      "label": "Skyddsskärm på bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsskarm-pa-byggstallning/",
+      "label": "Skyddsskärm på byggställning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsskarm-pa-vagg/",
+      "label": "Skyddsskärm på vägg"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/personligt-fallskydd/",
+      "label": "Personligt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lossning-och-lastning-av-gods/",
+      "label": "Lossning och lastning av gods"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lutande-tak/",
+      "label": "Lutande tak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/mobila-plattformar/",
+      "label": "Mobila plattformar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/positionering/",
+      "label": "Positionering på ställningar och tak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/raddning/",
+      "label": "Räddning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/valv-och-platta-tak/",
+      "label": "Valv och platta tak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/prefab/",
+      "label": "Prefab"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-for-prefab/",
+      "label": "Fallskydd för prefab"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/formonterad-infastning-pa-stalbalk/",
+      "label": "Förmonterad infästning på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/plattbarlag/",
+      "label": "Plattbärlag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/svetshylsa-inprojekterad-pa-stalbalk-2/",
+      "label": "Svetshylsa inprojekterad på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/vaggelement-med-ingjutningshylsa/",
+      "label": "Väggelement med ingjutningshylsa"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/vaggelement-med-vaggtopshylsa/",
+      "label": "Väggelement med väggtopshylsa"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/schakt-och-golvoppningar/",
+      "label": "Schakt och golvöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/bomlag-och-arbetsplan-i-hisschakt/",
+      "label": "Bomlag och arbetsplan I schakt"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/bygghissar-och-trapptorn-2/",
+      "label": "Bygghissar och trapptorn"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/golvoppningar-2/",
+      "label": "Golvöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hissoppningar/",
+      "label": "Hissöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/tak-och-fasader/",
+      "label": "Tak och fasader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fasader/",
+      "label": "Fasader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gavlar/",
+      "label": "Gavlar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/arbetsplan-vid-tak-och-fasader/",
+      "label": "Arbetsplan vid tak och fasader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/plattak/",
+      "label": "Plåttak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/takfot/",
+      "label": "Takfot"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/underlagstak/",
+      "label": "Underlagstak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/transport-och-forvaring/",
+      "label": "Transport och förvaring"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/ladhack/",
+      "label": "Lådhäck"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nathack-26-l-2/",
+      "label": "Näthäck 2,6 L"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nathack-vertikal-2/",
+      "label": "Näthäck Vertikal"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/stolphack/",
+      "label": "Stolphäck"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/trailersafe/",
+      "label": "TrailerSafe lossningsplattform"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/transport/",
+      "label": "Transport"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/trappor/",
+      "label": "Trappor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-i-vangstycket/",
+      "label": "Infästning i vangstycket"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-med-bultfot/",
+      "label": "Infästning med Bultfot"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/montering-med-tving-utan-haltagning/",
+      "label": "Montering med tving utan håltagning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/valvkanter/",
+      "label": "Valvkanter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hdf-bjalklag/",
+      "label": "HDF-bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-pa-valvkanter/",
+      "label": "Infästning på valvkanter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/montering-av-bjalklag/",
+      "label": "Montering av bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/spannstolpar-mellan-valv/",
+      "label": "Spännstolpar mellan valv"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/vaggoppningar/",
+      "label": "Väggöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/rackesledare-vid-vaggoppningar/",
+      "label": "Räckesledare vid väggöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/rackesnat-vid-vaggoppningar-2/",
+      "label": "Räckesnät vid väggöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/",
+      "label": "Academy"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/",
+      "label": "Översikt"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/grundutbildningar/",
+      "label": "Grundutbildningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/introduktion-fallskydd/",
+      "label": "Introduktion fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/kollektivt-fallskydd-grund/",
+      "label": "Kollektivt fallskydd grund"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/personligt-fallskydd-grund/",
+      "label": "Personligt fallskydd grund"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/utbildningar-personligt-fallskydd/",
+      "label": "Utbildningar personligt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/raddning/",
+      "label": "Räddning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/avancerad-raddning/",
+      "label": "Avancerad räddning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/kompetent-person/",
+      "label": "Kompetent person"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/slutna-utrymmen/",
+      "label": "Slutna utrymmen"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/utbildningar-kollektivt-fallskydd/",
+      "label": "Utbildningar kollektivt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/speciella-stallningskonstruktioner/",
+      "label": "Speciella ställningskonstruktioner"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsnat-och-skyddsskarm/",
+      "label": "Skyddsnät och skyddsskärm"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nyheter/",
+      "label": "Nyheter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/filmer/",
+      "label": "Info"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/filmer/",
+      "label": "Filmer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nedladdning-av-dokument/",
+      "label": "Dokument"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/faq/",
+      "label": "FAQ"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lagar-och-normer/",
+      "label": "Ansvar & lagar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lagar-och-normer/",
+      "label": "Ansvar & lagar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/orsaker-till-fallolyckor/",
+      "label": "Orsaker till fallolyckor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lagar-och-normer/",
+      "label": "Lagar och normer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/prenumerera-pa-vart-nyhetsbrev/",
+      "label": "Nyhetsbrev"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/visselblasning/",
+      "label": "Visselblåsning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/om-oss/",
+      "label": "Om oss"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/om-oss/",
+      "label": "Om oss"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/var-vardekedja/",
+      "label": "Vår värdekedja"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hallbarhet/",
+      "label": "Hållbarhet"
+    },
+    {
+      "href": "/safetyrespect-huvudkontor",
+      "label": "Kontakt"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-huvudkontor/",
+      "label": "Huvudkontor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-pitea/",
+      "label": "Norr"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-goteborg/",
+      "label": "Väst"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-stockholm/",
+      "label": "Öst"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-skane/",
+      "label": "Syd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/om-oss/jobba-hos-oss/",
+      "label": "Jobba hos oss"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/cart/",
+      "label": ""
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/",
+      "label": ""
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/cart/",
+      "label": ""
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/",
+      "label": "Hem"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter/",
+      "label": "Produkter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/",
+      "label": "Personligt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/selar/",
+      "label": "Selar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/fallskyddskit/",
+      "label": "Fallskyddskit"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/hjalmar/",
+      "label": "Hjälmar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/tillbehor/",
+      "label": "Tillbehör"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/",
+      "label": "Kollektivt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/racken/",
+      "label": "Räcken"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/stolpar/",
+      "label": "Stolpar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/fasten/",
+      "label": "Fästen"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/kopplingar-hallare/",
+      "label": "Kopplingar/Hållare"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/tillbehor/",
+      "label": "Tillbehör"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/",
+      "label": "Access"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/flex-hangbrygga/",
+      "label": "Flex hängbrygga"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/hisschaktsdorr/",
+      "label": "Hisschaktsdörr"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/trappor/",
+      "label": "Trappor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/gangbroar/",
+      "label": "Gångbroar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/avsparrningsracken/",
+      "label": "Avspärrningsräcken"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/avsparrningsstaket/",
+      "label": "Avspärrningsstaket"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/stangsel/",
+      "label": "Stängsel"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/",
+      "label": "Safety Net systems"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/skyddsskarm/",
+      "label": "Skyddsskärm"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/skyddsnat/",
+      "label": "Skyddsnät"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/",
+      "label": "Säker logistik"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/trailersafe/",
+      "label": "Trailersafe"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/lagringshackar/",
+      "label": "Lagringshäckar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/3d-demo/",
+      "label": "3D-DEMO"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/avsparrning/",
+      "label": "Avspärrning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/avsparrning/",
+      "label": "Avspärrning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/avsparrningssystem/",
+      "label": "Avspärrningssystem"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/sakra-tilltradesleder/",
+      "label": "Säkra tillträdesleder"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/balkar-och-pelare/",
+      "label": "Balkar och pelare"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/formonterad-infastning-pa-stalbalk/",
+      "label": "Förmonterad infästning på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gangade-svetsplattor/",
+      "label": "Gängade svetsplattor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gangstang-pa-stalbalk/",
+      "label": "Gängstång på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gangad-infastning-i-stalkonstruktioner/",
+      "label": "Gängad infästning i stålkonstruktioner"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/langa-spannvidder/",
+      "label": "Långa spännvidder"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/tving-pa-stalbalk/",
+      "label": "Tving på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/svetshylsa-pa-stalbalk-2/",
+      "label": "Svetshylsa på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/trabalkar-och-trapelare/",
+      "label": "Träbalkar och träpelare"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/trareglar/",
+      "label": "Träreglar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/balkonger/",
+      "label": "Balkonger"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-monterat-i-infastning-for-balkongracke/",
+      "label": "Fallskydd monterat i infästning för balkongräcke"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/formontering-pa-prefabricerade-element/",
+      "label": "Förmontering på prefabricerade element"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/tving-pa-balkongkanter/",
+      "label": "Tving på balkongkanter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/betonggjutning/",
+      "label": "Betonggjutning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-pa-pelare-for-fri-arbetsyta/",
+      "label": "Infästning på pelare för fri arbetsyta"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/platsgjuten-stomme/",
+      "label": "Platsgjuten stomme"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/pagjutning-pa-hdf-bjalklag/",
+      "label": "Pågjutning på hdf bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-for-broar/",
+      "label": "Broar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/byggstallningar/",
+      "label": "Byggställningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/bygghissar-och-trapptorn/",
+      "label": "Fallskydd bygghissar och trapptorn"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-byggstallningar/",
+      "label": "Fallskydd byggställningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/hallbyggnader/",
+      "label": "Hallbyggnader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hallsystem-med-rakt-montage/",
+      "label": "Hallsystem med rakt montage"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hallsystem-med-justerbart-faste/",
+      "label": "Hallsystem med justerbart fäste"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastningar-pa-hallbyggnader/",
+      "label": "Infästningar på hallbyggnader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/infastningar/",
+      "label": "Infästningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/betongskruv/",
+      "label": "Betongskruv"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/slagankare-och-dubbelgangad-m16/",
+      "label": "Slagankare och dubbelgängad m16"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/traskruv-wfd/",
+      "label": "Träskruv wfd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/nedfallande-foremal/",
+      "label": "Nedfallande föremål"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/personuppfangande-fallskyddsnat/",
+      "label": "Personuppfångande fallskyddsnät"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsskarm-pa-bjalklag/",
+      "label": "Skyddsskärm på bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsskarm-pa-byggstallning/",
+      "label": "Skyddsskärm på byggställning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsskarm-pa-vagg/",
+      "label": "Skyddsskärm på vägg"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/personligt-fallskydd/",
+      "label": "Personligt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lossning-och-lastning-av-gods/",
+      "label": "Lossning och lastning av gods"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lutande-tak/",
+      "label": "Lutande tak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/mobila-plattformar/",
+      "label": "Mobila plattformar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/positionering/",
+      "label": "Positionering på ställningar och tak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/raddning/",
+      "label": "Räddning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/valv-och-platta-tak/",
+      "label": "Valv och platta tak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/prefab/",
+      "label": "Prefab"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskydd-for-prefab/",
+      "label": "Fallskydd för prefab"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/formonterad-infastning-pa-stalbalk/",
+      "label": "Förmonterad infästning på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/plattbarlag/",
+      "label": "Plattbärlag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/svetshylsa-inprojekterad-pa-stalbalk-2/",
+      "label": "Svetshylsa inprojekterad på stålbalk"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/vaggelement-med-ingjutningshylsa/",
+      "label": "Väggelement med ingjutningshylsa"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/vaggelement-med-vaggtopshylsa/",
+      "label": "Väggelement med väggtopshylsa"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/schakt-och-golvoppningar/",
+      "label": "Schakt och golvöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/bomlag-och-arbetsplan-i-hisschakt/",
+      "label": "Bomlag och arbetsplan I schakt"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/bygghissar-och-trapptorn-2/",
+      "label": "Bygghissar och trapptorn"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/golvoppningar-2/",
+      "label": "Golvöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hissoppningar/",
+      "label": "Hissöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/tak-och-fasader/",
+      "label": "Tak och fasader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fasader/",
+      "label": "Fasader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/gavlar/",
+      "label": "Gavlar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/arbetsplan-vid-tak-och-fasader/",
+      "label": "Arbetsplan vid tak och fasader"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/plattak/",
+      "label": "Plåttak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/takfot/",
+      "label": "Takfot"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/underlagstak/",
+      "label": "Underlagstak"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/transport-och-forvaring/",
+      "label": "Transport och förvaring"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/ladhack/",
+      "label": "Lådhäck"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nathack-26-l-2/",
+      "label": "Näthäck 2,6 L"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nathack-vertikal-2/",
+      "label": "Näthäck Vertikal"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/stolphack/",
+      "label": "Stolphäck"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/trailersafe/",
+      "label": "TrailerSafe lossningsplattform"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/transport/",
+      "label": "Transport"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/trappor/",
+      "label": "Trappor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-i-vangstycket/",
+      "label": "Infästning i vangstycket"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-med-bultfot/",
+      "label": "Infästning med Bultfot"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/montering-med-tving-utan-haltagning/",
+      "label": "Montering med tving utan håltagning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/valvkanter/",
+      "label": "Valvkanter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hdf-bjalklag/",
+      "label": "HDF-bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/infastning-pa-valvkanter/",
+      "label": "Infästning på valvkanter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/montering-av-bjalklag/",
+      "label": "Montering av bjälklag"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/spannstolpar-mellan-valv/",
+      "label": "Spännstolpar mellan valv"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/vaggoppningar/",
+      "label": "Väggöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/rackesledare-vid-vaggoppningar/",
+      "label": "Räckesledare vid väggöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/rackesnat-vid-vaggoppningar-2/",
+      "label": "Räckesnät vid väggöppningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/",
+      "label": "Academy"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/",
+      "label": "Översikt"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/grundutbildningar/",
+      "label": "Grundutbildningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/introduktion-fallskydd/",
+      "label": "Introduktion fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/kollektivt-fallskydd-grund/",
+      "label": "Kollektivt fallskydd grund"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/personligt-fallskydd-grund/",
+      "label": "Personligt fallskydd grund"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/utbildningar-personligt-fallskydd/",
+      "label": "Utbildningar personligt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/raddning/",
+      "label": "Räddning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/avancerad-raddning/",
+      "label": "Avancerad räddning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/kompetent-person/",
+      "label": "Kompetent person"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/slutna-utrymmen/",
+      "label": "Slutna utrymmen"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/utbildningar-kollektivt-fallskydd/",
+      "label": "Utbildningar kollektivt fallskydd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/speciella-stallningskonstruktioner/",
+      "label": "Speciella ställningskonstruktioner"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/skyddsnat-och-skyddsskarm/",
+      "label": "Skyddsnät och skyddsskärm"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nyheter/",
+      "label": "Nyheter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/filmer/",
+      "label": "Info"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/filmer/",
+      "label": "Filmer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/nedladdning-av-dokument/",
+      "label": "Dokument"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/faq/",
+      "label": "FAQ"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lagar-och-normer/",
+      "label": "Ansvar & lagar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lagar-och-normer/",
+      "label": "Ansvar & lagar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/orsaker-till-fallolyckor/",
+      "label": "Orsaker till fallolyckor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/lagar-och-normer/",
+      "label": "Lagar och normer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/prenumerera-pa-vart-nyhetsbrev/",
+      "label": "Nyhetsbrev"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/visselblasning/",
+      "label": "Visselblåsning"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/om-oss/",
+      "label": "Om oss"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/om-oss/",
+      "label": "Om oss"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/var-vardekedja/",
+      "label": "Vår värdekedja"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/hallbarhet/",
+      "label": "Hållbarhet"
+    },
+    {
+      "href": "/safetyrespect-huvudkontor",
+      "label": "Kontakt"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-huvudkontor/",
+      "label": "Huvudkontor"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-pitea/",
+      "label": "Norr"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-goteborg/",
+      "label": "Väst"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-stockholm/",
+      "label": "Öst"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-skane/",
+      "label": "Syd"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/om-oss/jobba-hos-oss/",
+      "label": "Jobba hos oss"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskyddsguide/",
+      "label": "Översikt"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/planering/",
+      "label": "1. Planering"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar-for-alla-behov/",
+      "label": "2. Lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/logistik/",
+      "label": "3. Logistik"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/montage/",
+      "label": "4. Montage"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetycheck/",
+      "label": "5. Kontroll"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Se våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Se våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Se våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Se våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Se våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Se våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Se våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/",
+      "label": "Access"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/",
+      "label": "KOLLEKTIVT FALLSKYDD"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/",
+      "label": "PERSONLIGT FALLSKYDD"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/",
+      "label": "Safety Net systems"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/",
+      "label": "SÄKER LOGISTIK"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter",
+      "label": "SE ALLA"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/tilltradeslosningar/",
+      "label": "Se mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/kollektivt-fallskydd/",
+      "label": "Se mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/personligt-fallskydd/",
+      "label": "Se mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/safety-net-systems/",
+      "label": "Se mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produktkategori/saker-logistik/",
+      "label": "Se mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/fall-protection-training-courses-for-construction-workers/",
+      "label": "Fall protection training courses for construction workers"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/fall-protection-training-courses-for-construction-workers/",
+      "label": "Se videon"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/we-save-lives/",
+      "label": "SafetyRespect fall protection experts"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/we-save-lives/",
+      "label": "Se videon"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/personal-fall-protection-equipment-for-construction-workers/",
+      "label": "Personal fall protection equipment for construction workers"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/personal-fall-protection-equipment-for-construction-workers/",
+      "label": "Se videon"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/safetyrespect-temporary-edge-protection-system-for-construction-sites/",
+      "label": "SafetyRespect temporary edge protection system for construction sites"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safety-videos/safetyrespect-temporary-edge-protection-system-for-construction-sites/",
+      "label": "Se videon"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter/",
+      "label": "UTBILDNING"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter/",
+      "label": "Läs mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter/personligt-fallskydd/",
+      "label": "PERSONLIGT FALLSKYDD"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter/personligt-fallskydd/",
+      "label": "Läs mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/",
+      "label": "KOLLEKTIVT FALLSKYDD"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/",
+      "label": "Läs mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/fallskyddsguide/",
+      "label": "Läs mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/3d-demo/",
+      "label": "Läs mer"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/konferens-safetyrespect-2023/",
+      "label": "Konferens SafetyRespect 2023"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-forvarvar-vivatec-safety-ltd-i-england/",
+      "label": "SafetyRespect förvärvar Vivatec Safety Ltd i England"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/safetyrespect-levererar-fallskydd-till-renta/",
+      "label": "SafetyRespect levererar fallskydd till Renta"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/",
+      "label": ""
+    },
+    {
+      "href": "https://www.facebook.com/safetyrespect.se",
+      "label": ""
+    },
+    {
+      "href": "https://www.linkedin.com/company/safetyrespect-se",
+      "label": ""
+    },
+    {
+      "href": "tel:+4663130400",
+      "label": "+46 (0)63-130400"
+    },
+    {
+      "href": "mailto:info@safetyrespect.se",
+      "label": "info@safetyrespect.se"
+    },
+    {
+      "href": "/safetyrespect-huvudkontor",
+      "label": "Kontakt"
+    },
+    {
+      "href": "/om-oss/",
+      "label": "Om oss"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/produkter_old/",
+      "label": "Alla produkter"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/losningar/",
+      "label": "Våra lösningar"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/academy/",
+      "label": "Academy"
+    },
+    {
+      "href": "/fallskyddsguide",
+      "label": "Fallskyddsguide"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/cookies/",
+      "label": "Cookies"
+    },
+    {
+      "href": "https://safetyutv.sveautveckling.se/privacy-policy/",
+      "label": "Integritetspolicy"
+    }
+  ]
+}
